@@ -81,6 +81,7 @@ h3{
     display: flex;
     background-color: #EAEAEA;
     height: 100vh;
+    width: 100%;
 }
 
 .subcontanier-principal2{
@@ -107,6 +108,7 @@ h3{
     display: flex;
     background-color: #EAEAEA;
     height: 100vh;
+    width: 100%;
 }
 
 .subcontanier-principal3{
